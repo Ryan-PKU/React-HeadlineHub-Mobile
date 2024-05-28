@@ -1,8 +1,8 @@
+import { Button } from 'antd-mobile'
+
 function App() {
-
-
   return (
-    <div>this is app</div>
+    <div><Button color='success'>Click Me</Button>this is app</div>
   )
 }
 
